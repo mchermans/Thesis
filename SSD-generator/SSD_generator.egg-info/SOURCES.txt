@@ -1,0 +1,7 @@
+README.md
+setup.py
+SSD_generator.egg-info/PKG-INFO
+SSD_generator.egg-info/SOURCES.txt
+SSD_generator.egg-info/dependency_links.txt
+SSD_generator.egg-info/requires.txt
+SSD_generator.egg-info/top_level.txt
